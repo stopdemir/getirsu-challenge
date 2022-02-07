@@ -2,7 +2,7 @@
 implementation of getirsu challenge
 
 
-a gurobi implementation of VRP formulation
+a gurobi implementation of a VRP formulation
 
 the optimal solution has been achieved for seven orders by using three vehicles which have unlimited capacity.
 Optimal objective value: 3794.0
